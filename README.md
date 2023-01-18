@@ -1,5 +1,6 @@
 # Chat
-The application allows to have several clients on one device using the server. These clients can choose a nickname, write and send a message, receive messages from other clients, etc.
+The application allows to have several clients on one device using the server. These clients can choose a nickname, write and send a message, receive messages from other clients, etc. The application was developed in the C++ programming language in the QT development environment
+
 
 ## Interface
 
